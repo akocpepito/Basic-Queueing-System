@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\bin\Debug\Basic Queueing System.exe.config
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\bin\Debug\Basic Queueing System.exe
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\bin\Debug\Basic Queueing System.pdb
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\obj\Debug\Basic Queueing System.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\obj\Debug\Basic_Queueing_System.CashierWindowQueueForm.resources
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\obj\Debug\Basic_Queueing_System.QueueingForm.resources
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\obj\Debug\Basic_Queueing_System.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\obj\Debug\Basic Queueing System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\obj\Debug\Basic Queueing System.exe
+C:\Users\ASUS\source\repos\Basic Queueing System\Basic Queueing System\obj\Debug\Basic Queueing System.pdb
